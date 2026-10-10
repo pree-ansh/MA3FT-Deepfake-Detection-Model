@@ -1,0 +1,2 @@
+python 3.10.11
+pip install numpy pandas matplotlib tqdm tensorflow==2.13.1 tensorflow-addons scikit-learn seaborn opencv-python scikit-image
